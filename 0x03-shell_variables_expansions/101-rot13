@@ -1,2 +1,3 @@
 #!/bin/bash
-ge 'n-m''a-mn-z' | ge 'N-M''A-MN-Z'
+#!/ova/onfu
+tr 'a-z''n-za-m' | tr 'A-Z''N-ZA-M'
