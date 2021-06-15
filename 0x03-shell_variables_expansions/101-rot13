@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%0.2f\n" $NUM
+tr 'a-z''n-za-m' | tr 'A-Z''N-ZA-M'
